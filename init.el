@@ -90,6 +90,7 @@
  
 (setq enh-ruby-bounce-deep-indent t)
 (setq enh-ruby-hanging-brace-indent-level 2)
+(remove-hook 'enh-ruby-mode-hook 'erm-define-faces)
  
 (require 'cl) ; If you don't have it already
  
