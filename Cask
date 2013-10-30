@@ -6,6 +6,7 @@
 (depends-on "ag")
 (depends-on "auto-complete")
 (depends-on "cask")
+(depends-on "color-theme-sanityinc-tomorrow")
 (depends-on "dash")
 (depends-on "enh-ruby-mode")
 (depends-on "epl")
